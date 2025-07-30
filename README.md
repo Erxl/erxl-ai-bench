@@ -17,7 +17,8 @@
 | Deepseek Chat V3 0324   | 46     |
 | Grok 3                  | 46     |
 | Deepseek R1 0528        | 40     |
-| Kimi K2                 | 40     |
+| Kimi K2                 | 40     | 
+| Ernie 4.5 300B A47B     | 32     |
 | Grok 3 Mini             | 30     |
 | GLM 4.5                 | 29.33  |
 | Llama 4 Maverick        | 26     |
@@ -28,5 +29,6 @@
 | Qwen 3 32B              | 13     |
 | GPT 4.1 Nano            | 13     |
 | Qwen 2.5 72B            | 9      |
+| Qwen3 30B A3B 2507      | 7      |
 | Hunyuan A13B            | 6      |
 | GLM 4 32B               | 3      |
