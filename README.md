@@ -11,7 +11,7 @@
 | GPT 4.1                 | 63     |
 | Qwen 3 235B 2507        | 56.33  |
 | Qwen 3 Coder            | 47.67  |
-| Qwen3 235b A22B thinking 2507 | 47 |
+| Qwen 3 235b A22B thinking 2507 | 47 |
 | O4 Mini                 | 46     |
 | Deepseek Chat V3 0324   | 46     |
 | Grok 3                  | 46     |
@@ -24,7 +24,7 @@
 | Qwen 3 32B /nothink     | 19.67  |
 | Gemini 2.5 Flash        | 20     |
 | Minimax M1              | 16     |
-| Qwen3 32B               | 13     |
+| Qwen 3 32B               | 13     |
 | Qwen 2.5 72B            | 9      |
 | Hunyuan A13B            | 6      |
 | GLM 4 32B               | 3      |
