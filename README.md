@@ -4,12 +4,12 @@
 为了节约时间，每题仅测试一次，所以最终得分可能存在正负10%的误差
 | AI                      | 分数   |
 |-------------------------|--------|
-| Grok 4                  | 97     |
+| Grok 4                  | 85     |
 | Claude 4 Sonnet         | 69     |
 | Claude 4 Opus           | 68     |
-| Gemini 2.5 Pro          | 63     |
-| GPT 4.1                 | 63     |
 | Qwen 3 235B 2507        | 56.33  |
+| Gemini 2.5 Pro          | 55     |
+| GPT 4.1                 | 55     |
 | Qwen 3 Coder            | 47.67  |
 | Qwen 3 235b A22B thinking 2507 | 47 |
 | GPT 4.1 Mini            | 47     |
