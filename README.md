@@ -26,7 +26,7 @@
 | Gemini 2.5 Flash        | 20     |
 | Minimax M1              | 16     |
 | Qwen 3 32B              | 13     |
-| GPT 4.1 Nano            | 47     |
+| GPT 4.1 Nano            | 13     |
 | Qwen 2.5 72B            | 9      |
 | Hunyuan A13B            | 6      |
 | GLM 4 32B               | 3      |
