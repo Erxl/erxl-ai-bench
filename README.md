@@ -2,33 +2,34 @@
 内含 常识与能力级（150分）、创造与研究级（240分）、超前沿研究级（400分） 三级的约20个题目，难度越高的题分数越高。满分790分。
 
 为了节约时间，每题仅测试一次，所以最终得分可能存在正负10%的误差
-| AI                      | 分数   |
-|-------------------------|--------|
-| Grok 4                  | 85     |
-| Claude 4 Sonnet         | 69     |
-| Claude 4 Opus           | 68     |
-| Qwen 3 235B A22B 2507   | 56.33  |
-| Gemini 2.5 Pro          | 55     |
-| GPT 4.1                 | 55     |
-| Qwen 3 Coder            | 47.67  |
-| Qwen 3 235b A22B thinking 2507 | 47 |
-| GPT 4.1 Mini            | 47     |
-| O4 Mini                 | 46     |
-| Deepseek Chat V3 0324   | 46     |
-| Grok 3                  | 46     |
-| Deepseek R1 0528        | 40     |
-| Kimi K2                 | 40     | 
-| Ernie 4.5 300B A47B     | 32     |
-| Grok 3 Mini             | 30     |
-| GLM 4.5                 | 29.33  |
-| Llama 4 Maverick        | 26     |
-| GLM 4.5 Air             | 25.66  |
-| Qwen 3 32B /nothink     | 19.67  |
-| Gemini 2.5 Flash        | 20     |
-| Minimax M1              | 16     |
-| Qwen 3 32B              | 13     |
-| GPT 4.1 Nano            | 13     |
-| Qwen 2.5 72B            | 9      |
-| Qwen3 30B A3B 2507      | 7      |
-| Hunyuan A13B            | 6      |
-| GLM 4 32B               | 3      |
+| AI                      | 分数   | 未答分 |
+|-------------------------|--------|--------|
+| Grok 4                  | 85     |        |
+| Claude 4 Sonnet         | 69     |        |
+| Claude 4 Opus           | 68     |        |
+| Qwen 3 235B A22B 2507   | 56.33  |        |
+| Gemini 2.5 Pro          | 55     |        |
+| GPT 4.1                 | 55     |        |
+| Qwen 3 Coder            | 47.67  |        |
+| Qwen 3 235b A22B thinking 2507 | 47 | 40  |
+| GPT 4.1 Mini            | 47     |        |
+| O4 Mini                 | 46     |        |
+| Deepseek Chat V3 0324   | 46     |        |
+| Grok 3                  | 46     |        |
+| Deepseek R1 0528        | 40     |        |
+| Kimi K2                 | 40     |        |
+| Ernie 4.5 300B A47B     | 32     |        |
+| Grok 3 Mini             | 30     |        |
+| GLM 4.5                 | 29.33  |        |
+| Llama 4 Maverick        | 26     |        |
+| GLM 4.5 Air             | 25.66  |        |
+| Qwen 3 32B /nothink     | 19.67  |        |
+| Gemini 2.5 Flash        | 20     |        |
+| Minimax M1              | 16     |        |
+| Qwen 3 32B              | 13     | 20     |
+| GPT 4.1 Nano            | 13     |        |
+| Qwen 2.5 72B            | 9      |        |
+| Qwen3 30B A3B 2507      | 7      | 40     |
+| Hunyuan A13B            | 6      |        |
+| GLM 4 32B               | 3      |        |
+
