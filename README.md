@@ -28,10 +28,10 @@
 | Qwen3 30B A3B 2507      | 27     |        |
 | Llama 4 Maverick        | 26     |        |
 | GLM 4.5 Air             | 25.66  |        |
-| Qwen 3 32B /nothink     | 19.67  |        |
+| Qwen 3 32B              | 21     |        |
 | Gemini 2.5 Flash        | 20     |        |
+| Qwen 3 32B /nothink     | 19.67  |        |
 | Minimax M1              | 16     |        |
-| Qwen 3 32B              | 13     | 20     |
 | GPT 4.1 Nano            | 13     |        |
 | Qwen 2.5 72B            | 9      |        |
 | Hunyuan A13B            | 6      |        |
