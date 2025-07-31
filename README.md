@@ -6,12 +6,12 @@
 |-------------------------|--------|--------|
 | Grok 4                  | 85     |        |
 | Claude 4 Sonnet         | 69     |        |
+| Qwen 3 235b A22B thinking 2507 | 67 | 20  |
 | Claude 4 Opus           | 68     |        |
 | Qwen 3 235B A22B 2507   | 56.33  |        |
 | Gemini 2.5 Pro          | 55     |        |
 | GPT 4.1                 | 55     |        |
 | Qwen 3 Coder            | 47.67  |        |
-| Qwen 3 235b A22B thinking 2507 | 47 | 40  |
 | GPT 4.1 Mini            | 47     |        |
 | O4 Mini                 | 46     |        |
 | Deepseek Chat V3 0324   | 46     |        |
