@@ -8,6 +8,7 @@
 | Claude 4 Sonnet         | 69     |        |
 | Claude 4 Opus           | 68     |        |
 | Qwen 3 235b A22B thinking 2507 | 67 | 20  |
+| O3 Pro                  | 65     |        |
 | Qwen 3 235B A22B 2507   | 56.33  |        |
 | Gemini 2.5 Pro          | 55     |        |
 | GPT 4.1                 | 55     |        |
@@ -16,6 +17,7 @@
 | O4 Mini                 | 46     |        |
 | Deepseek Chat V3 0324   | 46     |        |
 | Grok 3                  | 46     |        |
+| O3                      | 43     |        |
 | Deepseek R1 0528        | 40     |        |
 | Kimi K2                 | 40     |        |
 | Ernie 4.5 300B A47B     | 32     |        |
