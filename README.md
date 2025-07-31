@@ -6,8 +6,8 @@
 |-------------------------|--------|--------|
 | Grok 4                  | 85     |        |
 | Claude 4 Sonnet         | 69     |        |
-| Qwen 3 235b A22B thinking 2507 | 67 | 20  |
 | Claude 4 Opus           | 68     |        |
+| Qwen 3 235b A22B thinking 2507 | 67 | 20  |
 | Qwen 3 235B A22B 2507   | 56.33  |        |
 | Gemini 2.5 Pro          | 55     |        |
 | GPT 4.1                 | 55     |        |
