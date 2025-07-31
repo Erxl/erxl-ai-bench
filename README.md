@@ -29,6 +29,7 @@
 | Llama 4 Maverick        | 26     |        |
 | GLM 4.5 Air             | 25.66  |        |
 | Qwen 3 32B              | 21     |        |
+| GPT 4                   | 21     |        |
 | Gemini 2.5 Flash        | 20     |        |
 | Qwen 3 32B /nothink     | 19.67  |        |
 | Minimax M1              | 16     |        |
@@ -36,4 +37,7 @@
 | Qwen 2.5 72B            | 9      |        |
 | Hunyuan A13B            | 6      |        |
 | GLM 4 32B               | 3      |        |
+| GPT 3.5 Turbo           | 3      |        |
+
+
 
