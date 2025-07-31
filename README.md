@@ -9,11 +9,11 @@
 | Grok 4                  | 85     |        |
 | Claude 4 Sonnet         | 69     |        |
 | Claude 4 Opus           | 68     |        |
-| Qwen 3 235b A22B thinking 2507 | 67 |     |
 | O3 Pro                  | 65     |        |
 | Qwen 3 235B A22B 2507   | 56.33  |        |
 | Gemini 2.5 Pro          | 55     |        |
 | GPT 4.1                 | 55     |        |
+| Qwen 3 235B A22B thinking 2507 | 51.33 |  |
 | Qwen 3 Coder            | 47.67  |        |
 | GPT 4.1 Mini            | 47     |        |
 | O4 Mini                 | 46     |        |
@@ -38,6 +38,7 @@
 | Hunyuan A13B            | 6      |        |
 | GLM 4 32B               | 3      |        |
 | GPT 3.5 Turbo           | 3      |        |
+
 
 
 
