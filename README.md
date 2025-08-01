@@ -23,6 +23,7 @@
 | **Intern S1**               | 上海人工智能实验室 | 235B | A22B   | 42     |        | 很差劲，远次于deepseek、qwen                     |
 | **Deepseek R1 0528**        | DeepSeek         | 685B   | A37B   | 40     |        |                                                  |
 | **Kimi K2**                 | 月之暗面         | 1040B  | A32B   | 40     |        | 擅长作为代理编程，但不如qwen3 coder              |
+| Horizon Alpha               | OpenAI           |        |        | 39     |        | 疑似GPT 5 Nano。日常对话很差，代理编程也有点差   |
 | **Ernie 4.5 300B A47B**     | 百度             | 300B   | A47B   | 32     |        |                                                  |
 | Grok 3 Mini                 | xAI              |        |        | 30     |        |                                                  |
 | **GLM 4.5**                 | 智谱             | 355B   | A32B   | 29.33  |        | 很差劲，远次于deepseek、qwen                     |
