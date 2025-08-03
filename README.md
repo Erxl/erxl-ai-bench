@@ -10,11 +10,11 @@
 | Claude 4 Sonnet             | Anthropic        |        |        | 69     |        | 回复太短；擅长代理编程；比别的模型更会创作               |
 | Claude 4 Opus               | Anthropic        |        |        | 68     |        | 回复太短；擅长代理编程；比别的模型更会创作               |
 | O3 Pro                      | OpenAI           |        |        | 65     |        |                                                          |
-| Horizon Beta                | OpenAI           |        |        | 60     |        | 疑似GPT 5 Nano或开源模型。日常对话很差。编程能力很强     |
+| Horizon Beta                | OpenAI           |        |        | 60     |        | 疑似GPT 5 Coder Nano。日常对话很差。编程能力很强         |
 | **Qwen 3 235B A22B 2507**   | 阿里巴巴         | 235B   | A22B   | 56.33  |        | 开源之王。但代理编程能力比qwen3 coder差一些              |
 | Gemini 2.5 Pro              | 谷歌             |        |        | 55     |        | 擅长在知识库内部展露惊人智慧，创造能力极差               |
 | GPT 4.1                     | OpenAI           |        |        | 55     |        |                                                          |
-| Horizon Alpha               | OpenAI           |        |        | 54     |        | 疑似GPT 5 Nano或开源模型。日常对话很差。编程能力很强     |
+| Horizon Alpha               | OpenAI           |        |        | 54     |        | 疑似GPT 5 Coder Nano。日常对话很差。编程能力很强         |
 | **Qwen 3 235B A22B thinking 2507** | 阿里巴巴  | 235B   | A22B   | 51.33  |        |                                                          |
 | **Qwen 3 Coder**            | 阿里巴巴         | 480B   | A35B   | 47.67  |        | 擅长代理编程，次于claude；其他水平不如235B的qwen         |
 | GPT 4.1 Mini                | OpenAI           |        |        | 47     |        | 并没有那么mini，应该是中模                               |
