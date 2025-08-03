@@ -22,10 +22,10 @@
 | **Deepseek Chat V3 0324**   | DeepSeek         | 685B   | A37B   | 46     |        |                                                          |
 | Grok 3                      | xAI              |        |        | 46     |        | 无审查                                                   |
 | O3                          | OpenAI           |        |        | 43     |        | 被整天AGI AGI地炒作，实际上就个垃圾                      |
-| **XBai O4**                 | 原石科技         | 32B    |        | 43     |        | 编码很强，常识很弱                                       |
 | **Intern S1**               | 上海人工智能实验室 | 235B | A22B   | 42     |        | 很差劲，远次于deepseek、qwen                             |
 | **Deepseek R1 0528**        | DeepSeek         | 685B   | A37B   | 40     |        |                                                          |
 | **Kimi K2**                 | 月之暗面         | 1040B  | A32B   | 40     |        | 擅长作为代理编程，但不如qwen3 coder                      |
+| **XBai O4**                 | 原石科技         | 32B    |        | 33     |        | 相比其基模Qwen3 32B，编码更强，常识更弱                  |
 | **Ernie 4.5 300B A47B**     | 百度             | 300B   | A47B   | 32     |        |                                                          |
 | Grok 3 Mini                 | xAI              |        |        | 30     |        |                                                          |
 | **GLM 4.5**                 | 智谱             | 355B   | A32B   | 29.33  |        | 很差劲，远次于deepseek、qwen                             |
