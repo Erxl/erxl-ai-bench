@@ -12,7 +12,8 @@
 | 250522 | Claude 4 Sonnet             | Anthropic        |        |        | 69     |        | 回复太短；代理编程之王；比别的模型更会创作               | 
 | 250522 | Claude 4 Opus               | Anthropic        |        |        | 68     |        | 回复太短；代理编程之王；比别的模型更会创作               | 
 | 250610 | O3 Pro                      | OpenAI           |        |        | 65     |        |                                                          | 
-| 250808 | GPT 5 Mini                  | OpenAI           |        |        | 60     |        | 非常失望                                                 |
+| 250808 | GPT 5 Chat                  | OpenAI           |        |        | 62     |        | 非常失望                                                 |
+| 250808 | GPT 5 Mini                  | OpenAI           |        |        | 60     |        | 非常失望，不听话，工具都调用不对，简直就是垃圾           |
 | 250801 | Horizon Beta                | OpenAI           |        |        | 60     |        | 疑似GPT 5 Nano Coder。日常对话很差。编程能力很强。不听话 | 
 | 250731 | **Qwen 3 235B A22B 2507**   | 阿里巴巴         | 235B   | A22B   | 56.33  |        | 开源之王。但代理编程能力比qwen3 coder差一些              | 
 | 250617 | Gemini 2.5 Pro              | 谷歌             |        |        | 55     |        | 擅长在知识库内部展露惊人智慧，创造能力极差               | 
@@ -51,6 +52,5 @@
 | 240116 | **GLM 4 32B**               | 智谱             | 32B    |        | 3      |        | 很差劲，远次于deepseek、qwen                             | 
 | 220315 | GPT 3.5 Turbo               | OpenAI           |        |        | 3      |        | 一切的起源                                               | 
 
-只有Grok 4、GPT 5、GPT5 Mini能在“创造与研究级”里拿到至少一分！
 
 
