@@ -20,6 +20,7 @@
 | 250414 | GPT 4.1                     | OpenAI           |        |        | 55     |        |                                                            | 
 | 250730 | Horizon Alpha               | OpenAI           |        |        | 54     |        | 疑似GPT 5 Mini的升级版。日常对话很差。编程能力很强。不听话 | 
 | 250731 | **Qwen 3 235B A22B thinking 2507** | 阿里巴巴  | 235B   | A22B   | 51.33  |        |                                                            | 
+| 250324 | **Deepseek Chat V3.1**      | DeepSeek         | 685B   | A37B   | 50     |        | 有提升但不多                                               | 
 | 250723 | **Qwen 3 Coder**            | 阿里巴巴         | 480B   | A35B   | 47.67  |        | 擅长代理编程（仍然很蠢）；其他水平不如235B的qwen           | 
 | 250414 | GPT 4.1 Mini                | OpenAI           |        |        | 47     |        | 并没有那么mini，应该是中模                                 | 
 | 250416 | O4 Mini                     | OpenAI           |        |        | 46     |        | 推理不行，日常对话更不行                                   | 
@@ -50,6 +51,6 @@
 | 240524 | **Qwen 2.5 72B**            | 阿里巴巴         | 72B    |        | 9      |        |                                                            | 
 | 250627 | **Hunyuan A13B**            | 腾讯             | 80B    | A13B   | 6      |        | 很差劲，远次于deepseek、qwen                               | 
 | 240116 | **GLM 4 32B**               | 智谱             | 32B    |        | 3      |        | 很差劲，远次于deepseek、qwen                               | 
-| 220315 | GPT 3.5 Turbo               | OpenAI           |        |        | 3      |        | 一切的起源                                                 |
+| 220315 | GPT 3.5 Turbo               | OpenAI           |        |        | 3      |        | 一切的起源                                                 | 
 
 
