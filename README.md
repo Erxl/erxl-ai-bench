@@ -21,6 +21,7 @@
 | 250730 | Horizon Alpha               | OpenAI           |        |        | 54     |        | 疑似GPT 5 Mini的升级版。日常对话很差。编程能力很强。不听话 | 
 | 250731 | **Qwen 3 235B A22B thinking 2507** | 阿里巴巴  | 235B   | A22B   | 51.33  |        |                                                            | 
 | 250324 | **Deepseek Chat V3.1**      | DeepSeek         | 685B   | A37B   | 50     |        | 有提升但不多                                               | 
+| 250731 | **Qwen 3 235B A22B 2507 Q2_K_XL** | 阿里巴巴   | 235B   | A22B   | 49     |        | 被量化为2bit，居然性能没有显著下降！                       | 
 | 250723 | **Qwen 3 Coder**            | 阿里巴巴         | 480B   | A35B   | 47.67  |        | 擅长代理编程（仍然很蠢）；其他水平不如235B的qwen           | 
 | 250414 | GPT 4.1 Mini                | OpenAI           |        |        | 47     |        | 并没有那么mini，应该是中模                                 | 
 | 250416 | O4 Mini                     | OpenAI           |        |        | 46     |        | 推理不行，日常对话更不行                                   | 
@@ -32,11 +33,11 @@
 | 250727 | **Intern S1**               | 上海人工智能实验室 | 235B | A22B   | 42     |        | 很差劲，远次于deepseek、qwen                               | 
 | 250528 | **Deepseek R1 0528**        | DeepSeek         | 685B   | A37B   | 40     |        |                                                            | 
 | 250713 | **Kimi K2**                 | 月之暗面         | 1040B  | A32B   | 40     |        | 擅长作为代理编程，但不如qwen3 coder                        | 
-| 250801 | **XBai O4**                 | 原石科技         | 32B    |        | 33     |        | 相比其基模Qwen3 32B，编码更强，常识更弱                    | 
 | 250629 | **Ernie 4.5 300B A47B**     | 百度             | 300B   | A47B   | 32     |        |                                                            | 
 | 250725 | **Step 3**                  | 阶跃星辰         | 321B   | A38B   | 32     |        | 很差劲，远次于deepseek、qwen                               | 
 | 250218 | Grok 3 Mini                 | xAI              |        |        | 30     |        |                                                            | 
 | 250728 | **GLM 4.5**                 | 智谱             | 355B   | A32B   | 29.33  |        | 很差劲，远次于deepseek、qwen                               | 
+| 250801 | **XBai O4**                 | 原石科技         | 32B    |        | 29     |        | 相比其基模Qwen3 32B，编码更强，常识更弱                    | 
 | 250805 | **GPT OSS 20B**             | OpenAI           | 21B    | A3.6B  | 26.5   |        | 不如XBai O4                                                | 
 | 250405 | **Llama 4 Maverick**        | Meta             | 109B   | A17B   | 26     |        | meta的巨大失败                                             | 
 | 250728 | **GLM 4.5 Air**             | 智谱             | 106B   | A12B   | 25.66  |        | 很差劲，远次于deepseek、qwen                               | 
@@ -47,8 +48,11 @@
 | 250429 | **Qwen 3 32B /nothink**     | 阿里巴巴         | 32B    |        | 19.67  |        |                                                            | 
 | 250611 | **Minimax M1**              | Minimax          | 456B   | A46B   | 16     |        | 很差劲，远次于deepseek、qwen                               | 
 | 250802 | **MindLink 72B 0801**       | 昆仑万维         | 72B    |        | 14     |        | 很差劲，远次于deepseek、qwen                               | 
-| 250414 | GPT 4.1 Nano                | OpenAI           |        |        | 13     |        |                                                            | 
+| 250820 | **Seed OSS 36B Instruct**   | 字节跳动         | 36B    |        | 14     |        | 很差劲                                                     | 
+| 250414 | GPT 4.1 Nano                | OpenAI           |        |        | 13     |        | 很差劲                                                     | 
+| 250620 | **Mistral Small 3.2 24B Instruct 2506** | Mistral AI | 24B  |    | 11     |        | 很差劲                                                     | 
 | 240524 | **Qwen 2.5 72B**            | 阿里巴巴         | 72B    |        | 9      |        |                                                            | 
+| 250521 | **Falcon H1 34B Instruct**  | TII              | 34B    |        | 7      |        | 太差劲了！                                                 | 
 | 250627 | **Hunyuan A13B**            | 腾讯             | 80B    | A13B   | 6      |        | 很差劲，远次于deepseek、qwen                               | 
 | 240116 | **GLM 4 32B**               | 智谱             | 32B    |        | 3      |        | 很差劲，远次于deepseek、qwen                               | 
 | 220315 | GPT 3.5 Turbo               | OpenAI           |        |        | 3      |        | 一切的起源                                                 | 
